@@ -74,3 +74,5 @@ getgenv().SettingFarm ={
         ["WebhookUrl"] = "",
     }
 }
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xmaru/MaruHub/main/maruloader.lua"))()
